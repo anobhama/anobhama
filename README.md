@@ -1,16 +1,15 @@
-### Hi there 👋
+HI I am Anobhama V 👋
 
-<!--
-**anobhama/anobhama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently studying ...  Sri Venkateswara College of Engineering
+- 📫 How to reach me: ... anobhama99@gmail.com
+- 💬 An enthusiastic fresher with highly motivated and leadership skills having graduation in Information Technology.
+- 💬 Eager to learn new technologies and methodologies.
+- 💬 Always willing to innovate and  adapt to new changing environment.
+- 💬 Good communication skills , oral as well as written  English.
+- 💬 Interested to learn with new concepts with  practical approach.
+- 💬 Positive attitude and  self-motivated towards every aspect.
+- 💬 Willingness to take responsibilities and problem solving capabilities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
