@@ -1,7 +1,8 @@
 HI I am Anobhama V 👋
 
 
-- 🌱 I’m currently studying ...  Sri Venkateswara College of Engineering
+- 🌱 Working in LTIMindtree
+-  I studied in Sri Venkateswara College of Engineering
 - 📫 How to reach me: ... anobhama99@gmail.com
 - 💬 An enthusiastic fresher with highly motivated and leadership skills having graduation in Information Technology.
 - 💬 Eager to learn new technologies and methodologies.
